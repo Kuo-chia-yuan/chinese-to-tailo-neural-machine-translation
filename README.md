@@ -1,6 +1,7 @@
 # chinese-to-tailo-neural-machine-translation
 
 ## 介紹
+將中文翻譯成閩南語
  - input：中文句子
  - output：閩南語句子
 
