@@ -1,5 +1,7 @@
 # chinese-to-tailo-neural-machine-translation
 
+## 介紹
+將中文翻譯成閩南語
 ## transformer 架構 & 作法說明
 ```
 class TransformerEncoderLayerWithBatchFirst(nn.TransformerEncoderLayer):
